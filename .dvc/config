@@ -2,3 +2,5 @@
     remote = ssh-storage
 ['remote "ssh-storage"']
     url = ssh://dvc@192.168.50.45/opt/datasets
+    user = mlops
+    port = 22
